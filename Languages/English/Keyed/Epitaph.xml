@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Epitaph_SettingsCategory>Colony Epitaph</Epitaph_SettingsCategory>
+  <Epitaph_UseVanillaLetter>Use vanilla game over letter</Epitaph_UseVanillaLetter>
+  <Epitaph_UseVanillaLetterTip>If enabled, the original Game Over letter is shown instead of the epitaph overlay.</Epitaph_UseVanillaLetterTip>
+
+  <Epitaph_Heading>The colony is gone.</Epitaph_Heading>
+  <Epitaph_UnnamedColony>The colony</Epitaph_UnnamedColony>
+  <Epitaph_Lasted>Lasted {0}.</Epitaph_Lasted>
+  <Epitaph_DebugSubtitle>Debug preview — the colony is still alive.</Epitaph_DebugSubtitle>
+  <Epitaph_EveryoneGone>Everyone is dead, kidnapped, or gone. The story of this place is over.</Epitaph_EveryoneGone>
+  <Epitaph_NoColonists>No colonists could be remembered.</Epitaph_NoColonists>
+  <Epitaph_AndMore>and {0} more</Epitaph_AndMore>
+  <Epitaph_PortraitFailed>No portrait</Epitaph_PortraitFailed>
+
+  <Epitaph_Dead>Dead</Epitaph_Dead>
+  <Epitaph_DiedOf>Died: {0}</Epitaph_DiedOf>
+  <Epitaph_Kidnapped>Kidnapped</Epitaph_Kidnapped>
+  <Epitaph_Missing>Missing</Epitaph_Missing>
+  <Epitaph_Left>Left the planet</Epitaph_Left>
+  <Epitaph_AliveDebug>Still breathing</Epitaph_AliveDebug>
+
+  <Epitaph_KeepWatching>Keep watching</Epitaph_KeepWatching>
+  <Epitaph_CreateWanderers>Create wanderers</Epitaph_CreateWanderers>
+  <Epitaph_WanderersWait>Wanderers can be created in {0}.</Epitaph_WanderersWait>
+  <Epitaph_WanderersExhausted>No more wanderer groups can be created.</Epitaph_WanderersExhausted>
+  <Epitaph_LoadSave>Load save</Epitaph_LoadSave>
+  <Epitaph_MainMenu>Main menu</Epitaph_MainMenu>
+</LanguageData>
