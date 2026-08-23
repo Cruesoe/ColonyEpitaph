@@ -7,11 +7,34 @@
   <Epitaph_Heading>The colony is gone.</Epitaph_Heading>
   <Epitaph_UnnamedColony>The colony</Epitaph_UnnamedColony>
   <Epitaph_Lasted>Lasted {0}.</Epitaph_Lasted>
+  <Epitaph_LastedUntil>Lasted {0} until {1}.</Epitaph_LastedUntil>
+  <Epitaph_Wealth>Wealth ${0}</Epitaph_Wealth>
+  <Epitaph_WealthWithPeak>Wealth ${0} (peak ${1})</Epitaph_WealthWithPeak>
+  <Epitaph_PeakColonists>Peak {0} colonists</Epitaph_PeakColonists>
+  <Epitaph_Raids>{0} raids</Epitaph_Raids>
   <Epitaph_DebugSubtitle>Debug preview — the colony is still alive.</Epitaph_DebugSubtitle>
   <Epitaph_EveryoneGone>Everyone is dead, kidnapped, or gone. The story of this place is over.</Epitaph_EveryoneGone>
   <Epitaph_NoColonists>No colonists could be remembered.</Epitaph_NoColonists>
   <Epitaph_AndMore>and {0} more</Epitaph_AndMore>
+  <Epitaph_SeeRemaining>+{0} more</Epitaph_SeeRemaining>
+  <Epitaph_Remaining>Remaining ({0})</Epitaph_Remaining>
+  <Epitaph_SectionDeceased>Deceased</Epitaph_SectionDeceased>
+  <Epitaph_SectionOthers>Others</Epitaph_SectionOthers>
   <Epitaph_PortraitFailed>No portrait</Epitaph_PortraitFailed>
+
+  <Epitaph_DetailAge>{1}, {0} years old</Epitaph_DetailAge>
+  <Epitaph_DetailAgeOnly>{0} years old</Epitaph_DetailAgeOnly>
+  <Epitaph_DetailChronological>(chronological age {0})</Epitaph_DetailChronological>
+  <Epitaph_DetailTimeInColony>{0} in the colony</Epitaph_DetailTimeInColony>
+  <Epitaph_DetailDied>Died {0}</Epitaph_DetailDied>
+  <Epitaph_DetailChildhood>Childhood</Epitaph_DetailChildhood>
+  <Epitaph_DetailAdulthood>Adulthood</Epitaph_DetailAdulthood>
+  <Epitaph_DetailClose>Close</Epitaph_DetailClose>
+  <Epitaph_SectionBackstory>Backstory</Epitaph_SectionBackstory>
+  <Epitaph_SectionTraits>Traits</Epitaph_SectionTraits>
+  <Epitaph_SectionSkills>Skills</Epitaph_SectionSkills>
+  <Epitaph_SectionRelations>Relationships</Epitaph_SectionRelations>
+  <Epitaph_SectionDeeds>Deeds</Epitaph_SectionDeeds>
 
   <Epitaph_Dead>Dead</Epitaph_Dead>
   <Epitaph_DiedOf>Died: {0}</Epitaph_DiedOf>
@@ -19,11 +42,4 @@
   <Epitaph_Missing>Missing</Epitaph_Missing>
   <Epitaph_Left>Left the planet</Epitaph_Left>
   <Epitaph_AliveDebug>Still breathing</Epitaph_AliveDebug>
-
-  <Epitaph_KeepWatching>Keep watching</Epitaph_KeepWatching>
-  <Epitaph_CreateWanderers>Create wanderers</Epitaph_CreateWanderers>
-  <Epitaph_WanderersWait>Wanderers can be created in {0}.</Epitaph_WanderersWait>
-  <Epitaph_WanderersExhausted>No more wanderer groups can be created.</Epitaph_WanderersExhausted>
-  <Epitaph_LoadSave>Load save</Epitaph_LoadSave>
-  <Epitaph_MainMenu>Main menu</Epitaph_MainMenu>
 </LanguageData>
