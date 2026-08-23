@@ -7,11 +7,9 @@
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
-  <description>Replaces the underwhelming Game Over letter with a full-screen epitaph when the colony is wiped.
+  <description>When your colony is wiped out, the game fades to a full-screen epitaph instead of a letter.
 
-The map dims, the game pauses, and you get the colony name, how long it lasted, and portraits of the fallen — with the same continue, wanderers, load, and main-menu choices vanilla already offers.
-
-Victory credits, the planetkiller fade, and Man in Black are left alone. A setting restores the vanilla letter if you want it back.</description>
+It remembers the colony's name, how long it lasted, the date it fell, and the colonists who lived and died there. Click any of them to read their story.</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
