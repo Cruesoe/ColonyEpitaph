@@ -16,16 +16,4 @@ When everyone is dead, kidnapped, or gone, the map dims and the game pauses:
 
 Wanderers stay on vanilla rules (delay, limits). Permadeath hides load. A setting under **Options → Mod options → Colony Epitaph** restores the original letter.
 
-## Install
-
-Copy this folder to `RimWorld\Mods\`, or add it as a local mod in RimSort. Requires [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077).
-
-## Build
-
-```
-dotnet build Source\ColonyEpitaph.csproj -c Debug
-```
-
-The DLL is copied to `1.6\Assemblies\ColonyEpitaph.dll` and to `RimWorld\Mods\Colony Epitaph\1.6\Assemblies\` if that folder exists.
-
 To iterate without wiping a colony, enable development mode and use **Debug actions → Colony Epitaph → Open epitaph screen**.
