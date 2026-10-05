@@ -1,7 +1,5 @@
 # Colony Epitaph
 
-RimWorld 1.6 mod.
-
 When your colony is wiped out, the game fades to a full-screen epitaph instead of a letter.
 
 It remembers the colony's name, how long it lasted, the date it fell, and the colonists who lived and died there. Click any of them to read their story.
@@ -34,7 +32,3 @@ Click any portrait, living or dead, for a panel covering:
 ## Options
 
 **Options → Mod options → Colony Epitaph** restores the original Game Over letter.
-
-## Previewing it
-
-To see the screen without wiping a colony, enable development mode and use **Debug actions → Colony Epitaph → Open epitaph screen**.
