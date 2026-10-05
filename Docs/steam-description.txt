@@ -1,0 +1,9 @@
+When your colony is wiped out, the game fades to a full-screen epitaph instead of a letter.
+
+It remembers the colony's name, how long it lasted, the date it fell, and everyone who lived and died there. Click any portrait to read their story: backstory, traits, skills, family, and the deeds that defined them.
+
+The usual choices remain. Keep watching, create wanderers, or return to the menu. If you'd rather keep the original Game Over letter, you can turn the epitaph off in the mod options.
+
+[b]There is a debug option to see the screen so you don't have to wait for your colony to die to know what it looks like.[/b]
+
+I love feedback and if you have any ideas of stats you might like to see on the final page of your colony let me know in the comments below!
