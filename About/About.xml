@@ -6,6 +6,7 @@
   <modVersion IgnoreIfNoMatchingField="True">23082026</modVersion>
   <supportedVersions>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <description>When your colony is wiped out, the game fades to a full-screen epitaph instead of a letter.
 
